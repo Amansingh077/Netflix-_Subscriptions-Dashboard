@@ -2,15 +2,15 @@
 
 
 ## 📚 Table of Contents
-### Overview
-### Tech Stack
-### Data Source
-### Dashboard Features
-### Installation & Usage
-### Key Insights
-### Contributing
-### License
-### Acknowledgements
+#### Overview
+#### Tech Stack
+#### Data Source
+#### Dashboard Features
+#### Installation & Usage
+#### Key Insights
+#### Contributing
+#### License
+#### Acknowledgements
 
 
 ## 🌟 Overview
@@ -33,9 +33,6 @@ Subscription Trends: Analyze changes in Netflix subscriptions over time.
 Regional Analysis: Compare subscription rates across different countries and regions.
 User Behavior: Explore factors influencing subscription decisions.
 Trend Identification: Spot key patterns and anomalies in the data.
-
-
-## 🔗 View the Power BI Dashboard
 
 
 ## 🛠️ Installation & Usage
