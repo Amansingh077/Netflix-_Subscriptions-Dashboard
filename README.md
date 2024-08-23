@@ -2,7 +2,7 @@
 
 
 ## 📚 Table of Contents
-#### Overview(Overview)
+#### Overview
 #### Tech Stack
 #### Data Source
 #### Dashboard Features
@@ -65,7 +65,7 @@ Contributions are welcome! If you have ideas for improvements or additional anal
 
 
 ## 📄 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. 
 
 
 ## 🙏 Acknowledgements
