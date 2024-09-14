@@ -42,7 +42,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your_username/netflix-subscriptions-dashboard.git
+git clone https://github.com/Amansingh077/netflix-subscriptions-dashboard.git
 Navigate to the project directory:
 
 bash
